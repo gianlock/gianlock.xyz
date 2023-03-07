@@ -1,2 +1,0 @@
-# gianlock.xyz
-Sito Web
